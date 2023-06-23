@@ -1,1 +1,4 @@
 ECHO is on.
+second line in friday 
+third line in friday 
+fourth line in friday 
